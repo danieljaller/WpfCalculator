@@ -28,7 +28,7 @@
             </Border>
 
 
-            <Button x:Name="ButtonAC" Content="AC" Grid.Row="1" Grid.Column="0" Margin="1" Click="ButtonAC_Click"/>
+            <Button x:Name="ButtonAC" Background="Brown" Content="AC" Grid.Row="1" Grid.Column="0" Margin="1" Click="ButtonAC_Click"/>
             <Button x:Name="ButtonWeird" Content="+/-" Grid.Row="1" Grid.Column="1" Margin="1" Click="ButtonWeird_Click" />
             <Button x:Name="ButtonPercent" Content=" % " Grid.Row="1" Grid.Column="2" Margin="1" Click="ButtonPercent_Click"/>
             <Button x:Name="ButtonDivide" Content="  /  " Grid.Row="1" Grid.Column="3" Margin="1" Click="ButtonDivide_Click"/>
